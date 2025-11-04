@@ -25,3 +25,5 @@ print(is_non)
 print("Is non values is",pd.value_counts(is_non))
 
 print(len(df))
+
+#start topic vise operations
